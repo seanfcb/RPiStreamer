@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\VideoLAN\VLC\vlc.exe" http://raspberrypi.local:8000/stream.mjpg 
